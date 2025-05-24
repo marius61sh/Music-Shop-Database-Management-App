@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|c:\\users\\admin\\desktop\\c#\\studiu individual 1\\insertangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:insertangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\insertangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:insertangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\insertfurnizori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:insertfurnizori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\databaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:databaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\databaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:databaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\rapoarte\\raportangajati.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:rapoarte\\raportangajati.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\insertfurnizori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:insertfurnizori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\insertviori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDAE86F-4D97-44E8-8515-58421BCBE607}|Studiu Individual 1.csproj|solutionrelative:insertviori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertAngajati.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertAngajati.cs",
+              "RelativeDocumentMoniker": "InsertAngajati.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertAngajati.cs",
+              "RelativeToolTip": "InsertAngajati.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAIAwwKgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:59:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\DatabaseForm.cs",
+              "RelativeDocumentMoniker": "DatabaseForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\DatabaseForm.cs",
+              "RelativeToolTip": "DatabaseForm.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAAO0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:01:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertFurnizori.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertFurnizori.cs",
+              "RelativeDocumentMoniker": "InsertFurnizori.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertFurnizori.cs",
+              "RelativeToolTip": "InsertFurnizori.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAhwLgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:48:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertAngajati.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertAngajati.cs",
+              "RelativeDocumentMoniker": "InsertAngajati.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertAngajati.cs [Design]",
+              "RelativeToolTip": "InsertAngajati.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:16:16.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\DatabaseForm.cs",
+              "RelativeDocumentMoniker": "DatabaseForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\DatabaseForm.cs [Design]",
+              "RelativeToolTip": "DatabaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:02:44.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAhwIsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:14:52.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaportAngajati.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\Rapoarte\\RaportAngajati.rdlc",
+              "RelativeDocumentMoniker": "Rapoarte\\RaportAngajati.rdlc",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\Rapoarte\\RaportAngajati.rdlc [Design]",
+              "RelativeToolTip": "Rapoarte\\RaportAngajati.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-03T11:11:33.221Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:14:49.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertFurnizori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertFurnizori.cs",
+              "RelativeDocumentMoniker": "InsertFurnizori.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertFurnizori.cs [Design]",
+              "RelativeToolTip": "InsertFurnizori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:37:29.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsertViori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertViori.cs",
+              "RelativeDocumentMoniker": "InsertViori.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\Studiu Individual 1\\InsertViori.cs [Design]",
+              "RelativeToolTip": "InsertViori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:39:26.81Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

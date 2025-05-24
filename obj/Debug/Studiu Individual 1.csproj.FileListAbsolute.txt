@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu Individual 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.DatabaseForm.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.Form1.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertAccesorii.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertAngajati.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertChitare.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertClienti.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertComenzi.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertDetalii_Comenzi.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertFurnizori.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertInstrumenteSuflat.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertPiane.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertPlati.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertProduse.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertTobe.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertUsers.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.InsertViori.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu_Individual_1.Rapoarte.RapoarteForms.RapAngForm.resources
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu Individual 1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu Individual 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu Individual 1.exe
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\obj\Debug\Studiu Individual 1.pdb
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\bin\Debug\Studiu Individual 1.exe.config
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\bin\Debug\Studiu Individual 1.exe
+C:\Users\Admin\Desktop\C#\Studiu Individual 1\bin\Debug\Studiu Individual 1.pdb
